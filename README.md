@@ -12,14 +12,6 @@ jingle (evil? or jeenio?)
 
 invitation (maybe release at function)
 
-compos need to be revised
- - missing pico-8 from pixel graphics
- - should we have ddgart category??
- - music compos shoudl submit also wav/ogg/flac or mp3 of the entry
- - close an a
- - interaction has a typo
- - step stop motion
-
 compo submission system (wuhu), test this after function
 
 schedule (livestream special)
@@ -58,3 +50,7 @@ saturday: 15:00 graphics & music compos
           afterparty of some sort
 
 sponsors? (prizes?)
+
+figure out seminars/talks for each topic, ask people to give them
+
+
