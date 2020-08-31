@@ -16,7 +16,8 @@ compo submission system (wuhu), test this after function
 
 close down schedule for livestream
 
-### option 1: traditional friday night seminars and demoshows, saturday compos, sunday prizegiving
+### option 1:
+ * traditional friday night seminars and demoshows, saturday compos, sunday prizegiving
 
 ### option 2: 
  * 1 or 2 weeks before the event: focused seminars for specific compos
@@ -49,6 +50,8 @@ saturday: 15:00 graphics & music compos
           compo panel with compo entrants
           00:00 prize giving
           afterparty of some sort
+
+---
 
 sponsors? (prizes?)
 
