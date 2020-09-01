@@ -8,7 +8,35 @@ graphic identity (colorscheme / palette; try to do a shadertoy effect; webpage b
 
 jingle (evil? or jeenio?)
 
-start contacting people for seminars/talks
+start contacting people for seminars/talks:
+
+* evvvvil about doing 4k intros
+* virgill about 4klang / 64klang
+* noby about oidos
+* hoffman wavesaber
+* gargaj conspiracy synth
+* ascii/ansi dipswitch, truck, cransky
+* yx, noby, iq about executable graphics
+* made about photo
+* kazuya about pixel graphics
+* modern graphics ???
+* hoffman, ctrix 4ch mod 
+* distance IT, saga musix,
+* jco, netpoet, jeenio streaming music compo
+* erratic drone music seminar?
+* zeroshift blender
+* jfrazao bonsai
+* smash or gloom? notch
+* androo, pandur, fraumimi cables
+* other demo engine seminars??
+* rrrola, hellmood, sensenstalh size coding
+* seven 1k
+* ferris about their tool and compressor
+* urs or cupe or abductee SDF library or 64k making in general
+* seminar for c64 coding 
+* seminar for zx spectrum coding (sol_hsa, lordcoxis, introspec, gasman)
+* seminar for amiga (noname, danlemon)
+* pico 8 coding (jobe)
 
 invitation (maybe release at function)
 
