@@ -4,11 +4,22 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-graphic identity (colorscheme / palette; try to do a shadertoy effect; webpage background animation) 1920x1080 PNG
+update website with new colorscheme
+
+different announcement pages
+
+* online event (check)
+* graphics compos (deadlines)
+* music compos (deadlines)
+* wild compos (deadlines)
+* intro compos (deadlines)
+* demo compo (deadlines)
+* seminars (who, when)
+* shader royale (TBC)
 
 jingle (evil? or jeenio?)
 
-start contacting people for seminars/talks:
+start contacting people for seminars/talks (between function and inércia:
 
 * evvvvil about doing 4k intros
 * virgill about 4klang / 64klang
@@ -37,6 +48,28 @@ start contacting people for seminars/talks:
 * seminar for zx spectrum coding (sol_hsa, lordcoxis, introspec, gasman)
 * seminar for amiga (noname, danlemon)
 * pico 8 coding (jobe)
+* paulo falcao (shader material)
+
+invite people for shader royale (2 october):
+* yx
+* ferris
+* alkama
+* flopine
+* lj
+* nusan
+* evvvvil
+* monsieur soleil
+* provod
+* wwrighter
+* blackle
+* alia
+* blueberry
+* cupe
+* gargaj
+* iq
+* kb
+* paulo falcao
+* confirm with lug00ber for soundtrack
 
 invitation (maybe release at function)
 
