@@ -41,6 +41,7 @@ start contacting people for seminars/talks (between function and inércia:
 * androo, pandur, fraumimi cables
 * other demo engine seminars??
 * rrrola, hellmood, sensenstalh size coding
+* p01 1k
 * seven 1k
 * ferris about their tool and compressor
 * urs or cupe or abductee SDF library or 64k making in general
