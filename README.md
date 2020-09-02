@@ -4,7 +4,7 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-update website with new colorscheme
+update website with new colorscheme and credit flopine for bg image
 
 different announcement pages
 
