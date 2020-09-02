@@ -69,6 +69,10 @@ invite people for shader royale (2 october):
 * iq
 * kb
 * paulo falcao
+* noby
+* branch
+* slerpy
+* visy
 * confirm with lug00ber for soundtrack
 
 invitation (maybe release at function)
