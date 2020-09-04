@@ -4,7 +4,7 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-different announcement pages
+announcement flyers
 
 * online event (check)
 * graphics compos (deadlines)
