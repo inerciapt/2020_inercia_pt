@@ -4,6 +4,8 @@ Inércia Demoparty 2020 website
 
 # TODO
 
+poke alkama to help me test for shader royale
+
 announcement flyers
 
 * online event (check)
