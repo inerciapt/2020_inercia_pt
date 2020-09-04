@@ -48,6 +48,7 @@ start contacting people for seminars/talks (between function and inércia:
 * seminar for amiga (noname, danlemon)
 * pico 8 coding (jobe)
 * paulo falcao (shader material)
+* mmalex plinky
 
 invite people for shader royale (2 october):
 * yx
