@@ -19,19 +19,26 @@ jingle (evil? or jeenio?)
 
 start contacting people for seminars/talks (between function and inércia:
 
-* evvvvil about doing 4k intros
-* virgill about 4klang / 64klang
-* noby about oidos
-* hoffman wavesaber
-* gargaj conspiracy synth
-* ascii/ansi dipswitch, truck, cransky
-* yx, noby, iq about executable graphics
-* made about photo
-* kazuya about pixel graphics
+* evvvvil about doing 4k intros (pinged on discord, maybe on 12th oct)
+* virgill about 4klang / 64klang (pinged on discord)
+* noby about oidos (pinged on discord)
+* hoffman wavesaber (cant make it)
+* gargaj conspiracy synth (cant make it before function, re-ping after function)
+* ascii/ansi dipswitch (pinged on discord)
+* ascii/ansi truck?
+* ascii/ansi cransky?
+* yx about executable graphics (pinged on discord)
+* iq about executable graphics
+* made about photo/graphics (pinged on discord)
+* kazuya about pixel graphics (pinged on facebook)
 * modern graphics ???
-* hoffman, ctrix 4ch mod 
-* distance IT, saga musix,
-* jco, netpoet, jeenio streaming music compo
+* ctrix 4ch mod (pinged on discord)
+* gopher 4klang/64klang (pinged on discord)
+* distance IT (pinged on discord)
+* saga musix trackers (pinged on discord)
+* jco streaming music compo or creative process (pinged on discord)
+* netpoet streaming music compo or legal things (pinged on discord)
+* jeenio streaming music compo?
 * erratic drone music seminar?
 * zeroshift blender
 * jfrazao bonsai
@@ -41,11 +48,11 @@ start contacting people for seminars/talks (between function and inércia:
 * rrrola, hellmood, sensenstalh size coding
 * p01 1k
 * seven 1k
-* ferris about their tool and compressor
+* ferris about their tool, compressor or hardware (pinged on discord)
 * urs or cupe or abductee SDF library or 64k making in general
-* seminar for c64 coding 
+* seminar for c64 coding?
 * seminar for zx spectrum coding (sol_hsa, lordcoxis, introspec, gasman)
-* seminar for amiga (noname, danlemon)
+* seminar for amiga coding (noname, danlemon)
 * pico 8 coding (jobe)
 * paulo falcao (shader material)
 * mmalex plinky
