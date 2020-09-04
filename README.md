@@ -20,7 +20,9 @@ jingle (evil? or jeenio?)
 start contacting people for seminars/talks
 
 Invite blurb: 
-```I'm organizing Inércia Demoparty 2020 as an online event (2-3 oct). Trying to take full use of the online format i've been doing daily livestreams preparing for the main event and trying to raise community hype a bit. Always starting around 21:00 Lisbon time. Would be nice to have on those sessions some seminars on different demo making things. To help the noobs start rolling out things and motivate the old timers to participate. We have The format i had in mind to simplify logistics would be to play a pre-recorded 90 min video on the stream while having the giver available on the chat to talk with the audience, can also have them live on the stream to answer any Q&A. These sessions will be archived on youtube for posterity with an MIT license. Would you be interested in contributing a seminar talk?```
+```
+I'm organizing Inércia Demoparty 2020 as an online event (2-3 oct). Trying to take full use of the online format i've been doing daily livestreams preparing for the main event and trying to raise community hype a bit. Always starting around 21:00 Lisbon time. Would be nice to have on those sessions some seminars on different demo making things. To help the noobs start rolling out things and motivate the old timers to participate. We have The format i had in mind to simplify logistics would be to play a pre-recorded 90 min video on the stream while having the giver available on the chat to talk with the audience, can also have them live on the stream to answer any Q&A. These sessions will be archived on youtube for posterity with an MIT license. Would you be interested in contributing a seminar talk?
+```
 
 * evvvvil about doing 4k intros (pinged on discord, maybe on 12th oct)
 * virgill about 4klang / 64klang (pinged on discord)
@@ -87,8 +89,11 @@ invite people for shader royale (2 october):
 * confirm with lug00ber for soundtrack
 
 Invite blurb:
-```A different event that we'll be putting together at Inércia this year will be a Shader Royale on October 2nd. It differs from the standard shader showdown in the following:
-Multiple contestants start at the same time programming a shader on bonzomatic. Contestants are allowed to copy paste basic boilerplate code including variable definitions and one liner matrix handling and SDF calculation functions. Livestream focus will change between multiple. After 10 minutes we'll start having random encounters between 2 or 3 contestants (randomly defined). During these encounters we'll show these contestants in closer attention and the audience will be able to live vote which one is their favorite. The top voted contestant moves on, the lesser voted contestants are out of the competition. In case of a tie for the top voted, all top voted tied constestants advance. All contestants are free to keep improving their shaders throughout the event. We'll repeat the random encounters procedure every few minutes until there is only one contestant left. After the event the final shaders from each contestant will be distributed with an MIT license. Would you be interested in being a contestant?```
+
+```
+A different event that we'll be putting together at Inércia this year will be a Shader Royale on October 2nd. It differs from the standard shader showdown in the following:
+Multiple contestants start at the same time programming a shader on bonzomatic. Contestants are allowed to copy paste basic boilerplate code including variable definitions and one liner matrix handling and SDF calculation functions. Livestream focus will change between multiple. After 10 minutes we'll start having random encounters between 2 or 3 contestants (randomly defined). During these encounters we'll show these contestants in closer attention and the audience will be able to live vote which one is their favorite. The top voted contestant moves on, the lesser voted contestants are out of the competition. In case of a tie for the top voted, all top voted tied constestants advance. All contestants are free to keep improving their shaders throughout the event. We'll repeat the random encounters procedure every few minutes until there is only one contestant left. After the event the final shaders from each contestant will be distributed with an MIT license. Would you be interested in being a contestant?
+```
 
 invitation (maybe release at function)
 
