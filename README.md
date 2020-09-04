@@ -36,7 +36,8 @@ start contacting people for seminars/talks (between function and inércia:
 * gopher 4klang/64klang (pinged on discord)
 * distance IT (pinged on discord)
 * saga musix trackers (pinged on discord)
-* jco streaming music compo or creative process (pinged on discord)
+* jco streaming music compo or creative process (cant make it)
+* paralax spacepigs demotool (pinged on discord)
 * netpoet streaming music compo or legal things (pinged on discord)
 * jeenio streaming music compo?
 * erratic drone music seminar?
