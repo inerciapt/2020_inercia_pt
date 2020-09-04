@@ -49,7 +49,7 @@ start contacting people for seminars/talks (between function and inércia:
 * rrrola, hellmood, sensenstalh size coding
 * p01 1k
 * seven 1k
-* ferris about their tool, compressor or hardware (pinged on discord)
+* ferris about their tool, compressor or hardware (cant make it, pinged on discord)
 * urs or cupe or abductee SDF library or 64k making in general
 * seminar for c64 coding?
 * seminar for zx spectrum coding (sol_hsa, lordcoxis, introspec, gasman)
