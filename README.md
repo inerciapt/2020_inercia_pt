@@ -5,10 +5,6 @@ Inércia Demoparty 2020 website
 
 spam announcement 2
 
-update website with 18:00 deadline October 1st
-
-update website with screenshot logo from https://www.shadertoy.com/view/3tSfzV
-
 update website with table of schedule
 
 follow up on seminars (paulo falcao, evvvvil)
