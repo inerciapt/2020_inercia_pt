@@ -1,25 +1,29 @@
 # 2020.inercia.pt
 Inércia Demoparty 2020 website
 
-
 # TODO
 
-poke alkama to help me test for shader royale
+spam announcement 2
 
-announcement flyers
+update website with 18:00 deadline October 1st
 
-* online event (check)
-* graphics compos (deadlines)
-* music compos (deadlines)
-* wild compos (deadlines)
-* intro compos (deadlines)
-* demo compo (deadlines)
-* seminars (who, when)
-* shader royale (TBC)
+update website with screenshot logo from https://www.shadertoy.com/view/3tSfzV
+
+update website with table of schedule
+
+follow up on seminars (paulo falcao, evvvvil)
+
+ask people for shader royale test on friday 11th september shader royale competition (no voting system, just visuals)
+
+in couple days spam announcement 3 4 5
+
+invitation intro for function??? (alien)
 
 jingle (evil? or jeenio?)
 
 start contacting people for seminars/talks
+
+2 seconds blackscreen for vlc playlist smooth transitions
 
 Invite blurb: 
 ```
@@ -96,6 +100,13 @@ Invite blurb:
 A different event that we'll be putting together at Inércia this year will be a Shader Royale on October 2nd. It differs from the standard shader showdown in the following:
 Multiple contestants start at the same time programming a shader on bonzomatic. Contestants are allowed to copy paste basic boilerplate code including variable definitions and one liner matrix handling and SDF calculation functions. Livestream focus will change between multiple. After 10 minutes we'll start having random encounters between 2 or 3 contestants (randomly defined). During these encounters we'll show these contestants in closer attention and the audience will be able to live vote which one is their favorite. The top voted contestant moves on, the lesser voted contestants are out of the competition. In case of a tie for the top voted, all top voted tied constestants advance. All contestants are free to keep improving their shaders throughout the event. We'll repeat the random encounters procedure every few minutes until there is only one contestant left. After the event the final shaders from each contestant will be distributed with an MIT license. Would you be interested in being a contestant?
 ```
+
+online flyers:
+
+* online event (check)
+* compos (check)
+* seminars (who, when)
+* shader royale (TBC)
 
 invitation (maybe release at function)
 
