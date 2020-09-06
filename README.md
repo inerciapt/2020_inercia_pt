@@ -3,19 +3,19 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-follow up on seminars (paulo falcao, evvvvil)
-
 ask people for shader royale test on friday 11th september shader royale competition (no voting system, just visuals)
 
 spam announcement 3
+
+finish contacting all the listed people about possible seminars
+
+follow up on interested seminar speakers with actual dates to announce (paulo falcao, evvvvil, paralax)
 
 in couple days spam announcement 4 5
 
 invitation intro for function??? (alien)
 
 jingle (evil? or jeenio?)
-
-start contacting people for seminars/talks
 
 Invite blurb: 
 ```
