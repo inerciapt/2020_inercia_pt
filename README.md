@@ -1,28 +1,54 @@
 # 2020.inercia.pt
 Inércia Demoparty 2020 website
 
-
 # TODO
 
-graphic identity (colorscheme / palette; try to do a shadertoy effect; webpage background animation) 1920x1080 PNG
+update website with more clear mention that submission system will open later in the month
+
+update website with table of schedule
+
+follow up on seminars (paulo falcao, evvvvil)
+
+ask people for shader royale test on friday 11th september shader royale competition (no voting system, just visuals)
+
+spam announcement 3
+
+in couple days spam announcement 4 5
+
+invitation intro for function??? (alien)
 
 jingle (evil? or jeenio?)
 
-start contacting people for seminars/talks:
+start contacting people for seminars/talks
 
-* evvvvil about doing 4k intros
-* virgill about 4klang / 64klang
-* noby about oidos
-* hoffman wavesaber
-* gargaj conspiracy synth
-* ascii/ansi dipswitch, truck, cransky
-* yx, noby, iq about executable graphics
-* made about photo
-* kazuya about pixel graphics
+2 seconds blackscreen for vlc playlist smooth transitions
+
+Invite blurb: 
+```
+I'm organizing Inércia Demoparty 2020 as an online event (2-3 oct). Trying to take full use of the online format i've been doing daily livestreams preparing for the main event and trying to raise community hype a bit. Always starting around 21:00 Lisbon time. Would be nice to have on those sessions some seminars on different demo making things. To help the noobs start rolling out things and motivate the old timers to participate. We have The format i had in mind to simplify logistics would be to play a pre-recorded 90 min video on the stream while having the giver available on the chat to talk with the audience, can also have them live on the stream to answer any Q&A. These sessions will be archived on youtube for posterity with an MIT license. Would you be interested in contributing a seminar talk?
+```
+
+* evvvvil about doing 4k intros (pinged on discord, maybe on 12th oct)
+* virgill about 4klang / 64klang (pinged on discord)
+* noby about oidos (pinged on discord)
+* ~~hoffman wavesaber (cant)~~
+* gargaj conspiracy synth (cant before function, re-ping after function)
+* ~~ascii/ansi dipswitch (cant)~~
+* ascii/ansi truck?
+* ascii/ansi cransky?
+* yx about executable graphics (pinged on discord)
+* iq about executable graphics
+* made about photo/graphics (pinged on discord)
+* kazuya about pixel graphics (pinged on facebook)
 * modern graphics ???
-* hoffman, ctrix 4ch mod 
-* distance IT, saga musix,
-* jco, netpoet, jeenio streaming music compo
+* ctrix 4ch mod (pinged on discord)
+* gopher 4klang/64klang (pinged on discord)
+* distance IT (pinged on discord)
+* saga musix trackers (pinged on discord)
+* ~~jco streaming music compo or creative process (cant)~~
+* paralax spacepigs demotool (pinged on discord)
+* netpoet streaming music compo or legal things (pinged on discord)
+* jeenio streaming music compo?
 * erratic drone music seminar?
 * zeroshift blender
 * jfrazao bonsai
@@ -30,13 +56,55 @@ start contacting people for seminars/talks:
 * androo, pandur, fraumimi cables
 * other demo engine seminars??
 * rrrola, hellmood, sensenstalh size coding
+* p01 1k
 * seven 1k
-* ferris about their tool and compressor
+* ~~ferris about their tool, compressor or hardware (cant)~~
 * urs or cupe or abductee SDF library or 64k making in general
-* seminar for c64 coding 
+* seminar for c64 coding?
 * seminar for zx spectrum coding (sol_hsa, lordcoxis, introspec, gasman)
-* seminar for amiga (noname, danlemon)
-* pico 8 coding (jobe)
+* seminar for amiga coding (noname, danlemon)
+* jobe pico 8 coding
+* paulo falcao shader material (maybe in 2 weeks)
+* mmalex plinky
+
+invite people for shader royale (2 october):
+* yx
+* ferris
+* alkama
+* flopine
+* lj
+* nusan
+* evvvvil
+* monsieur soleil
+* provod
+* wwrighter
+* blackle
+* alia
+* blueberry
+* cupe
+* gargaj
+* iq
+* kb
+* paulo falcao
+* noby
+* branch
+* slerpy
+* visy
+* confirm with lug00ber for soundtrack
+
+Invite blurb:
+
+```
+A different event that we'll be putting together at Inércia this year will be a Shader Royale on October 2nd. It differs from the standard shader showdown in the following:
+Multiple contestants start at the same time programming a shader on bonzomatic. Contestants are allowed to copy paste basic boilerplate code including variable definitions and one liner matrix handling and SDF calculation functions. Livestream focus will change between multiple. After 10 minutes we'll start having random encounters between 2 or 3 contestants (randomly defined). During these encounters we'll show these contestants in closer attention and the audience will be able to live vote which one is their favorite. The top voted contestant moves on, the lesser voted contestants are out of the competition. In case of a tie for the top voted, all top voted tied constestants advance. All contestants are free to keep improving their shaders throughout the event. We'll repeat the random encounters procedure every few minutes until there is only one contestant left. After the event the final shaders from each contestant will be distributed with an MIT license. Would you be interested in being a contestant?
+```
+
+online flyers:
+
+* online event (check)
+* compos (check)
+* seminars (who, when)
+* shader royale (TBC)
 
 invitation (maybe release at function)
 
