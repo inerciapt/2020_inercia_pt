@@ -3,10 +3,6 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-update website with more clear mention that submission system will open later in the month
-
-update website with table of schedule
-
 follow up on seminars (paulo falcao, evvvvil)
 
 ask people for shader royale test on friday 11th september shader royale competition (no voting system, just visuals)
@@ -21,8 +17,6 @@ jingle (evil? or jeenio?)
 
 start contacting people for seminars/talks
 
-2 seconds blackscreen for vlc playlist smooth transitions
-
 Invite blurb: 
 ```
 I'm organizing Inércia Demoparty 2020 as an online event (2-3 oct). Trying to take full use of the online format i've been doing daily livestreams preparing for the main event and trying to raise community hype a bit. Always starting around 21:00 Lisbon time. Would be nice to have on those sessions some seminars on different demo making things. To help the noobs start rolling out things and motivate the old timers to participate. We have The format i had in mind to simplify logistics would be to play a pre-recorded 90 min video on the stream while having the giver available on the chat to talk with the audience, can also have them live on the stream to answer any Q&A. These sessions will be archived on youtube for posterity with an MIT license. Would you be interested in contributing a seminar talk?
@@ -32,7 +26,7 @@ I'm organizing Inércia Demoparty 2020 as an online event (2-3 oct). Trying to t
 * virgill about 4klang / 64klang (pinged on discord)
 * noby about oidos (pinged on discord)
 * ~~hoffman wavesaber (cant)~~
-* gargaj conspiracy synth (cant before function, re-ping after function)
+* ~~gargaj conspiracy synth (cant before function, re-ping after function)~~
 * ~~ascii/ansi dipswitch (cant)~~
 * ascii/ansi truck?
 * ascii/ansi cransky?
