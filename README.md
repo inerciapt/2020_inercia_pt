@@ -3,7 +3,7 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-spam announcement 2
+update website with more clear mention that submission system will open later in the month
 
 update website with table of schedule
 
@@ -11,7 +11,9 @@ follow up on seminars (paulo falcao, evvvvil)
 
 ask people for shader royale test on friday 11th september shader royale competition (no voting system, just visuals)
 
-in couple days spam announcement 3 4 5
+spam announcement 3
+
+in couple days spam announcement 4 5
 
 invitation intro for function??? (alien)
 
