@@ -5,8 +5,6 @@ Inércia Demoparty 2020 website
 
 ask people for shader royale test on friday 11th september shader royale competition (no voting system, just visuals)
 
-spam announcement 3
-
 finish contacting all the listed people about possible seminars
 
 follow up on interested seminar speakers with actual dates to announce (paulo falcao, evvvvil, paralax)
