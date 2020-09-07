@@ -57,7 +57,7 @@ List of people:
 * pandur (pinged on discord)
 * rrrola size coding
 * ~~hellmood size coding (pinged on discord, cant)~~
-* sensenstalh size coding
+* sensenstalh size coding (pinged on discord)
 * p01 1k (pinged on twitter)
 * seven 1k
 * ~~ferris about their tool, compressor or hardware (cant)~~
@@ -73,8 +73,8 @@ List of people:
 * jobe pico 8 coding (pinged on discord)
 * paulo falcao shader material (pinged on hangouts, maybe in 2 weeks)
 * mmalex plinky (pinged on twitter, thinking about it)
-* porocyon (pinged on discord)
-* superrogue ZX size coding (pinged on discord)
+* porocyon (pinged on discord, maybe)
+* ~~superrogue ZX size coding (pinged on discord)~~
 * zden atari vj tool (pinged on discord)
 
 Invite blurb:
