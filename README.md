@@ -74,7 +74,7 @@ List of people:
 * ~~emoon on amiga coding (pinged on discord, cant)~~
 * jobe pico 8 coding (pinged on discord)
 * paulo falcao shader material (pinged on hangouts, maybe in 2 weeks)
-* mmalex plinky (pinged on twitter)
+* mmalex plinky (pinged on twitter, thinking about it)
 * porocyon (pinged on discord)
 * superrogue ZX size coding (pinged on discord)
 * zden atari vj tool (pinged on discord)
