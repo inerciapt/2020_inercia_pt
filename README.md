@@ -73,9 +73,10 @@ List of people:
 * jobe pico 8 coding (pinged on discord)
 * paulo falcao shader material (pinged on hangouts, maybe in 2 weeks)
 * mmalex plinky (pinged on twitter, thinking about it)
-* porocyon (pinged on discord, maybe)
+* porocyon NDS (pinged on discord, checking dates)
 * ~~superrogue ZX size coding (pinged on discord)~~
 * zden atari vj tool (pinged on discord)
+* blackle linux coding
 
 Invite blurb:
 
