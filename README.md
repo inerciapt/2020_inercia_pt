@@ -40,13 +40,13 @@ List of people:
 * ascii/ansi cransky
 * ascii/ansi ne7
 * yx about executable graphics (pinged on discord)
-* iq about executable graphics (pinged on discord)
+* iq about executable graphics (pinged on discord, thinking about it)
 * made about photo/graphics (pinged on discord)
 * kazuya about pixel graphics (pinged on facebook)
 * modern graphics ???
 * ctrix 4ch mod (pinged on discord)
 * gopher 4klang/64klang (pinged on discord)
-* distance IT (pinged on discord)
+* distance IT (pinged on discord, thinking about it)
 * saga musix trackers (pinged on discord)
 * ~~jco streaming music compo or creative process (cant)~~
 * paralax spacepigs demotool (pinged on discord, figuring out date)
@@ -58,20 +58,20 @@ List of people:
 * smash notch
 * pandur (pinged on discord)
 * rrrola size coding
-* hellmood size coding (pinged on discord)
+* ~~hellmood size coding (pinged on discord, cant)~~
 * sensenstalh size coding
 * p01 1k (pinged on twitter)
 * seven 1k
 * ~~ferris about their tool, compressor or hardware (cant)~~
 * urs or cupe or abductee SDF library or 64k making in general
 * seminar for c64 coding?
-* sol_hsa zx spectrum coding (pinged on discord)
+* sol_hsa zx spectrum coding (pinged on discord, maybe)
 * lordcoxis zx spectrum coding
 * introspec zx spectrum coding
 * gasman zx spectrum coding
 * noname seminar for amiga coding (pinged on discord)
 * danlemon seminar on amiga coding
-* emoon on amiga coding (pinged on discord)
+* ~~emoon on amiga coding (pinged on discord, cant)~~
 * jobe pico 8 coding (pinged on discord)
 * paulo falcao shader material (pinged on hangouts, maybe in 2 weeks)
 * mmalex plinky (pinged on twitter)
