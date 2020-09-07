@@ -11,17 +11,25 @@ finish contacting all the listed people about possible seminars
 
 follow up on interested seminar speakers with actual dates to announce (paulo falcao, evvvvil, paralax)
 
-in couple days spam announcement 4 5
+spam announcement 4 (wait couple days after previous)
+
+spam announcement 5 (wait couple days after previous)
+
+spam first seminar announcement (need dates confirmed)
+
+party jingle (evil? or jeenio?)
 
 invitation intro for function??? (alien)
 
-jingle (evil? or jeenio?)
+test fake compo of every kind (irfanview, xmplay, videoplayer)
 
-Invite blurb: 
-```
-I'm organizing Inércia Demoparty 2020 as an online event (2-3 oct). Trying to take full use of the online format i've been doing daily livestreams preparing for the main event and trying to raise community hype a bit. Always starting around 21:00 Lisbon time. Would be nice to have on those sessions some seminars on different demo making things. To help the noobs start rolling out things and motivate the old timers to participate. The format i had in mind to simplify logistics would be to play a pre-recorded 90 min video on the stream while having the talk giver available on the chat to talk with the audience, can also have them live on the stream to answer any Q&A. These sessions will be archived on youtube for posterity with an MIT license. Would you be interested in contributing a seminar talk?
-```
+poke gargaj to setup compo submission system after Function is done
 
+---
+
+Invite people to give demo making related seminars on the days leading up to Inércia
+
+List of people:
 * evvvvil about doing 4k intros (pinged on discord, maybe on 12th oct)
 * virgill about 4klang / 64klang (pinged on discord)
 * noby about oidos (pinged on discord)
@@ -70,7 +78,15 @@ I'm organizing Inércia Demoparty 2020 as an online event (2-3 oct). Trying to t
 * porocyon (pinged on discord)
 * superrogue ZX size coding (pinged on discord)
 
-invite people for shader royale (2 october):
+Invite blurb:
+
+```
+I'm organizing Inércia Demoparty 2020 as an online event (2-3 oct). Trying to take full use of the online format i've been doing daily livestreams preparing for the main event and trying to raise community hype a bit. Always starting around 21:00 Lisbon time. Would be nice to have on those sessions some seminars on different demo making things. To help the noobs start rolling out things and motivate the old timers to participate. The format i had in mind to simplify logistics would be to play a pre-recorded 90 min video on the stream while having the talk giver available on the chat to talk with the audience, can also have them live on the stream to answer any Q&A. These sessions will be archived on youtube for posterity with an MIT license. Would you be interested in contributing a seminar talk?
+```
+
+---
+
+Invite people for shader royale (2 october):
 * yx
 * ferris
 * alkama
@@ -102,58 +118,21 @@ A different event that we'll be putting together at Inércia this year will be a
 Multiple contestants start at the same time programming a shader on bonzomatic. Contestants are allowed to copy paste basic boilerplate code including variable definitions and one liner matrix handling and SDF calculation functions. Livestream focus will change between multiple. After 10 minutes we'll start having random encounters between 2 or 3 contestants (randomly defined). During these encounters we'll show these contestants in closer attention and the audience will be able to live vote which one is their favorite. The top voted contestant moves on, the lesser voted contestants are out of the competition. In case of a tie for the top voted, all top voted tied constestants advance. All contestants are free to keep improving their shaders throughout the event. We'll repeat the random encounters procedure every few minutes until there is only one contestant left. After the event the final shaders from each contestant will be distributed with an MIT license. Would you be interested in being a contestant?
 ```
 
-online flyers:
+---
 
-* online event (check)
-* compos (check)
-* seminars (who, when)
-* shader royale (TBC)
-
-invitation (maybe release at function)
-
-compo submission system (wuhu), test this after function
-
-close down schedule for livestream
-
-### option 1:
- * traditional friday night seminars and demoshows, saturday compos, sunday prizegiving
-
-### option 2: 
- * 1 or 2 weeks before the event: focused seminars for specific compos
-
-* last week before event:
-
-demoshow
- - best of inércia
- - best of trsac (talk with someone with ducks and no pants)
- - best of chaos constructions (talk with random)
- - best of bunzli (mountain bytes)
- - your party here??
-
-dj set?
- - dextrose
- - hoffman
- - glxblt
- - lynn
- - lug00ber
- - dipswitch
- - bombe
- - ronny
- - yoda
-
-friday night: shader royale (lug00ber soundtrack)
-
-saturday: 15:00 graphics & music compos
-          compo panel with compo entrants
-          20:00 intro and demo compo
-          compo panel with compo entrants
-          00:00 prize giving
-          afterparty of some sort
+invite folks for dj sets:
+* dextrose
+* hoffman
+* glxblt
+* lynn
+* lug00ber
+* dipswitch
+* bombe
+* ronny
+* yoda
 
 ---
 
-sponsors? (prizes?)
+sponsors?
 
-figure out seminars/talks for each topic, ask people to give them
-
-
+compo prizes?
