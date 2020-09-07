@@ -77,6 +77,7 @@ List of people:
 * mmalex plinky (pinged on twitter)
 * porocyon (pinged on discord)
 * superrogue ZX size coding (pinged on discord)
+* zden atari vj tool (pinged on discord)
 
 Invite blurb:
 
