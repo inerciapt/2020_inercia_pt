@@ -7,11 +7,21 @@ ask people for shader royale test on friday 11th september shader royale competi
 
 finish contacting all the listed people about possible seminars
 
-follow up on interested seminar speakers with actual dates to announce (paulo falcao, evvvvil, paralax)
+follow up on interested seminar speakers with actual dates to announce (paulo falcao, evvvvil, paralax, iq, porocyon, mmalex)
 
-spam announcement 4 (wait couple days after previous)
+prepare best of deadline demoshow
 
-spam announcement 5 (wait couple days after previous)
+prepare best of bunzli demoshow
+
+prepare best of chaos constructions demoshow
+
+prepare best of forever demoshow
+
+prepare best of inercia demoshow
+
+spam announcement 4 (9 sep)
+
+spam announcement 5 (12 sep)
 
 spam first seminar announcement (need dates confirmed)
 
