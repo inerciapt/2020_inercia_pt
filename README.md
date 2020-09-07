@@ -19,7 +19,7 @@ jingle (evil? or jeenio?)
 
 Invite blurb: 
 ```
-I'm organizing Inércia Demoparty 2020 as an online event (2-3 oct). Trying to take full use of the online format i've been doing daily livestreams preparing for the main event and trying to raise community hype a bit. Always starting around 21:00 Lisbon time. Would be nice to have on those sessions some seminars on different demo making things. To help the noobs start rolling out things and motivate the old timers to participate. We have The format i had in mind to simplify logistics would be to play a pre-recorded 90 min video on the stream while having the giver available on the chat to talk with the audience, can also have them live on the stream to answer any Q&A. These sessions will be archived on youtube for posterity with an MIT license. Would you be interested in contributing a seminar talk?
+I'm organizing Inércia Demoparty 2020 as an online event (2-3 oct). Trying to take full use of the online format i've been doing daily livestreams preparing for the main event and trying to raise community hype a bit. Always starting around 21:00 Lisbon time. Would be nice to have on those sessions some seminars on different demo making things. To help the noobs start rolling out things and motivate the old timers to participate. The format i had in mind to simplify logistics would be to play a pre-recorded 90 min video on the stream while having the talk giver available on the chat to talk with the audience, can also have them live on the stream to answer any Q&A. These sessions will be archived on youtube for posterity with an MIT license. Would you be interested in contributing a seminar talk?
 ```
 
 * evvvvil about doing 4k intros (pinged on discord, maybe on 12th oct)
@@ -28,10 +28,11 @@ I'm organizing Inércia Demoparty 2020 as an online event (2-3 oct). Trying to t
 * ~~hoffman wavesaber (cant)~~
 * ~~gargaj conspiracy synth (cant before function, re-ping after function)~~
 * ~~ascii/ansi dipswitch (cant)~~
-* ascii/ansi truck?
-* ascii/ansi cransky?
+* ascii/ansi truck
+* ascii/ansi cransky
+* ascii/ansi ne7
 * yx about executable graphics (pinged on discord)
-* iq about executable graphics
+* iq about executable graphics (pinged on discord)
 * made about photo/graphics (pinged on discord)
 * kazuya about pixel graphics (pinged on facebook)
 * modern graphics ???
@@ -40,26 +41,34 @@ I'm organizing Inércia Demoparty 2020 as an online event (2-3 oct). Trying to t
 * distance IT (pinged on discord)
 * saga musix trackers (pinged on discord)
 * ~~jco streaming music compo or creative process (cant)~~
-* paralax spacepigs demotool (pinged on discord)
+* paralax spacepigs demotool (pinged on discord, figuring out date)
 * netpoet streaming music compo or legal things (pinged on discord)
 * jeenio streaming music compo?
 * erratic drone music seminar?
-* zeroshift blender
+* zeroshift blender (pinged on hangouts)
 * jfrazao bonsai
-* smash or gloom? notch
-* androo, pandur, fraumimi cables
-* other demo engine seminars??
-* rrrola, hellmood, sensenstalh size coding
-* p01 1k
+* smash notch
+* pandur (pinged on discord)
+* rrrola size coding
+* hellmood size coding (pinged on discord)
+* sensenstalh size coding
+* p01 1k (pinged on twitter)
 * seven 1k
 * ~~ferris about their tool, compressor or hardware (cant)~~
 * urs or cupe or abductee SDF library or 64k making in general
 * seminar for c64 coding?
-* seminar for zx spectrum coding (sol_hsa, lordcoxis, introspec, gasman)
-* seminar for amiga coding (noname, danlemon)
-* jobe pico 8 coding
-* paulo falcao shader material (maybe in 2 weeks)
-* mmalex plinky
+* sol_hsa zx spectrum coding (pinged on discord)
+* lordcoxis zx spectrum coding
+* introspec zx spectrum coding
+* gasman zx spectrum coding
+* noname seminar for amiga coding (pinged on discord)
+* danlemon seminar on amiga coding
+* emoon on amiga coding (pinged on discord)
+* jobe pico 8 coding (pinged on discord)
+* paulo falcao shader material (pinged on hangouts, maybe in 2 weeks)
+* mmalex plinky (pinged on twitter)
+* porocyon (pinged on discord)
+* superrogue ZX size coding (pinged on discord)
 
 invite people for shader royale (2 october):
 * yx
