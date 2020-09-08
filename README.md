@@ -3,9 +3,33 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-ask people for shader royale test on friday 11th september shader royale competition (no voting system, just visuals)
+---
 
-max resolution for images 1920x1080
+test on friday 11th september shader royale system:
+* alkama
+* flopine
+* blackle
+* visy
+* cosamentale
+* yx
+
+test page to process random encounters
+
+test all grabbers on thumbnail size for all contestants
+
+overlays on obs maybe some nametags??
+
+---
+
+prepare the first seminar flyer
+
+spam the first seminar flyer
+
+prepare page to process random encounters
+
+prepare the seminar
+
+create discordchat room for shader royale, invite everyone, give rolls, give info on how to join
 
 finish contacting all the listed people about possible seminars
 
@@ -40,6 +64,7 @@ poke gargaj to setup compo submission system after Function is done
 Invite people to give demo making related seminars on the days leading up to Inércia
 
 List of people:
+* ps teach yourself demoscene in 14 days (10 september)
 * evvvvil about doing 4k intros (pinged on discord, maybe on 12th oct)
 * virgill about 4klang / 64klang (pinged on discord)
 * noby about oidos (pinged on discord)
@@ -49,12 +74,12 @@ List of people:
 * ascii/ansi truck
 * ascii/ansi cransky
 * ascii/ansi ne7
-* yx about executable graphics (pinged on discord)
+* yx about executable graphics (pinged on discord, thinking about it)
 * iq about executable graphics (pinged on discord, thinking about it)
 * made about photo/graphics (pinged on discord)
 * kazuya about pixel graphics (pinged on facebook)
 * modern graphics ???
-* ctrix 4ch mod (pinged on discord)
+* ctrix 4ch mod (pinged on discord, thinking about it)
 * gopher 4klang/64klang (pinged on discord)
 * distance IT (pinged on discord, thinking about it)
 * saga musix trackers (pinged on discord)
@@ -66,22 +91,22 @@ List of people:
 * zeroshift blender (pinged on hangouts)
 * jfrazao bonsai
 * smash notch
-* pandur (pinged on discord)
+* pandur cables.gl (pinged on discord, figure out date)
 * rrrola size coding
-* ~~hellmood size coding (pinged on discord, cant)~~
-* sensenstalh size coding (pinged on discord)
+* ~~hellmood size coding (pinged on discord, cant)
+* ~~sensenstalh size coding (pinged on discord)
 * p01 1k (pinged on twitter)
 * seven 1k
-* ~~ferris about their tool, compressor or hardware (cant)~~
+* ~~ferris about their tool, compressor or hardware (cant)
 * urs or cupe or abductee SDF library or 64k making in general
-* seminar for c64 coding?
+* hedning seminar for c64 coding?
 * sol_hsa zx spectrum coding (pinged on discord, maybe)
 * lordcoxis zx spectrum coding
 * introspec zx spectrum coding
 * gasman zx spectrum coding
 * noname seminar for amiga coding (pinged on discord)
 * danlemon seminar on amiga coding
-* ~~emoon on amiga coding (pinged on discord, cant)~~
+* ~~emoon on amiga coding (pinged on discord, cant)
 * jobe pico 8 coding (pinged on discord)
 * paulo falcao shader material (pinged on hangouts, maybe in 2 weeks)
 * mmalex plinky (pinged on twitter, thinking about it)
