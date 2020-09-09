@@ -3,13 +3,9 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-prepare the first seminar flyer
+beautify page to display random encounters
 
-spam the first seminar flyer
-
-prepare page to process random encounters
-
-create discordchat room for shader royale, invite everyone, give rolls, give info on how to join
+invite shader royale people to discord, give them all roles, give them all the info on how to join
 
 ---
 
@@ -29,7 +25,7 @@ overlays on obs maybe some nametags??
 
 ---
 
-prepare the seminar
+prepare the teach yourself demoscene seminar
 
 finish contacting all the listed people about possible seminars
 
