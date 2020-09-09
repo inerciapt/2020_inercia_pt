@@ -61,7 +61,7 @@ Invite people to give demo making related seminars on the days leading up to In√
 
 List of people:
 * ps teach yourself demoscene in 14 days (10 september)
-* evvvvil about doing 4k intros (pinged on discord, maybe on 12th oct)
+* evvvvil about doing 4k intros (pinged on discord, maybe on 12 september)
 * virgill about 4klang / 64klang (pinged on discord)
 * noby about oidos (pinged on discord)
 * ~~hoffman wavesaber (cant)~~
