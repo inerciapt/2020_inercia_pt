@@ -9,8 +9,6 @@ spam the first seminar flyer
 
 prepare page to process random encounters
 
-prepare the seminar
-
 create discordchat room for shader royale, invite everyone, give rolls, give info on how to join
 
 ---
@@ -30,6 +28,8 @@ test all grabbers on thumbnail size for all contestants
 overlays on obs maybe some nametags??
 
 ---
+
+prepare the seminar
 
 finish contacting all the listed people about possible seminars
 
