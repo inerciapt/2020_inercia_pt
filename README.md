@@ -89,11 +89,11 @@ List of people:
 * smash notch
 * pandur cables.gl (pinged on discord, figure out date)
 * rrrola size coding
-* ~~hellmood size coding (pinged on discord, cant)
-* ~~sensenstalh size coding (pinged on discord)
+* ~~hellmood size coding (pinged on discord, cant)~~
+* ~~sensenstalh size coding (pinged on discord)~~
 * p01 1k (pinged on twitter)
 * seven 1k
-* ~~ferris about their tool, compressor or hardware (cant)
+* ~~ferris about their tool, compressor or hardware (cant)~~
 * urs or cupe or abductee SDF library or 64k making in general
 * hedning seminar for c64 coding?
 * sol_hsa zx spectrum coding (pinged on discord, maybe)
@@ -102,7 +102,7 @@ List of people:
 * gasman zx spectrum coding
 * noname seminar for amiga coding (pinged on discord)
 * danlemon seminar on amiga coding
-* ~~emoon on amiga coding (pinged on discord, cant)
+* ~~emoon on amiga coding (pinged on discord, cant)~~
 * jobe pico 8 coding (pinged on discord)
 * paulo falcao shader material (pinged on hangouts, maybe in 2 weeks)
 * mmalex plinky (pinged on twitter, thinking about it)
