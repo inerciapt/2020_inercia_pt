@@ -3,6 +3,16 @@ Inércia Demoparty 2020 website
 
 # TODO
 
+prepare the first seminar flyer
+
+spam the first seminar flyer
+
+prepare page to process random encounters
+
+prepare the seminar
+
+create discordchat room for shader royale, invite everyone, give rolls, give info on how to join
+
 ---
 
 test on friday 11th september shader royale system:
@@ -21,16 +31,6 @@ overlays on obs maybe some nametags??
 
 ---
 
-prepare the first seminar flyer
-
-spam the first seminar flyer
-
-prepare page to process random encounters
-
-prepare the seminar
-
-create discordchat room for shader royale, invite everyone, give rolls, give info on how to join
-
 finish contacting all the listed people about possible seminars
 
 follow up on interested seminar speakers with actual dates to announce (paulo falcao, evvvvil, paralax, iq, porocyon, mmalex)
@@ -45,11 +45,7 @@ prepare best of forever demoshow
 
 prepare best of inercia demoshow
 
-spam announcement 4 (9 sep)
-
 spam announcement 5 (12 sep)
-
-spam first seminar announcement (need dates confirmed)
 
 party jingle (evil? or jeenio?)
 
