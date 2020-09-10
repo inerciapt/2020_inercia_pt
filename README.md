@@ -3,27 +3,11 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-beautify page to display random encounters
+setup name tages for all shader royale participants
 
-invite shader royale people to discord, give them all roles, give them all the info on how to join
+test on friday 11th september shader royale system!
 
----
-
-test on friday 11th september shader royale system:
-* alkama
-* flopine
-* blackle
-* visy
-* cosamentale
-* yx
-
-test page to process random encounters
-
-test all grabbers on thumbnail size for all contestants
-
-overlays on obs maybe some nametags??
-
----
+gather feedback from shader royale test
 
 prepare the teach yourself demoscene seminar
 
