@@ -3,19 +3,13 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-setup name tages for all shader royale participants
-
-test on friday 11th september shader royale system!
-
-gather feedback from shader royale test
-
 prepare the teach yourself demoscene seminar
+
+overlay for obs shader royale with the tv idea and longer transition time to fullscreen
 
 finish contacting all the listed people about possible seminars
 
-follow up on interested seminar speakers with actual dates to announce (paulo falcao, evvvvil, paralax, iq, porocyon, mmalex)
-
-prepare best of deadline demoshow
+follow up on interested seminar speakers with actual dates to announce (paulo falcao, evvvvil, paralax, iq, porocyon, mmalex, p01)
 
 prepare best of bunzli demoshow
 
@@ -24,10 +18,6 @@ prepare best of chaos constructions demoshow
 prepare best of forever demoshow
 
 prepare best of inercia demoshow
-
-spam announcement 5 (12 sep)
-
-party jingle (evil? or jeenio?)
 
 invitation intro for function??? (alien)
 
