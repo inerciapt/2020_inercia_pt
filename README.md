@@ -7,6 +7,8 @@ prepare the teach yourself demoscene seminar
 
 overlay for obs shader royale with the tv idea and longer transition time to fullscreen
 
+test interactive html infopage on obs (to type things on)
+
 finish contacting all the listed people about possible seminars
 
 follow up on interested seminar speakers with actual dates to announce (paulo falcao, evvvvil, paralax, iq, porocyon, mmalex, p01)
