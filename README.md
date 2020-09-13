@@ -11,7 +11,7 @@ test interactive html infopage on obs (to type things on)
 
 finish contacting all the listed people about possible seminars
 
-follow up on interested seminar speakers with actual dates to announce (paulo falcao, evvvvil, paralax, iq, porocyon, mmalex, p01)
+follow up on interested seminar speakers with actual dates to announce (paulo falcao, evvvvil, paralax, iq, porocyon, mmalex, p01, yx, noby, pandur)
 
 prepare best of bunzli demoshow
 
@@ -32,16 +32,16 @@ poke gargaj to setup compo submission system after Function is done
 Invite people to give demo making related seminars on the days leading up to Inércia
 
 List of people:
-* ps teach yourself demoscene in 14 days (10 september)
-* evvvvil about doing 4k intros (pinged on discord, maybe on 12 september)
+* ps teach yourself demoscene in 14 days (13 september)
+* evvvvil about doing 4k intros (pinged on discord, figuring out dates)
 * virgill about 4klang / 64klang (pinged on discord)
 * noby about oidos (pinged on discord)
 * ~~hoffman wavesaber (cant)~~
 * ~~gargaj conspiracy synth (cant before function, re-ping after function)~~
 * ~~ascii/ansi dipswitch (cant)~~
 * ascii/ansi truck
-* ascii/ansi cransky
-* ascii/ansi ne7
+* ascii/ansi cransky (pinged on discord)
+* ascii/ansi ne7 (pinged on twitter)
 * yx about executable graphics (pinged on discord, thinking about it)
 * iq about executable graphics (pinged on discord, thinking about it)
 * made about photo/graphics (pinged on discord)
@@ -54,16 +54,16 @@ List of people:
 * ~~jco streaming music compo or creative process (cant)~~
 * paralax spacepigs demotool (pinged on discord, figuring out date)
 * netpoet streaming music compo or legal things (pinged on discord)
-* jeenio streaming music compo?
+* jeenio streaming music compo? (pinged on discord)
 * erratic drone music seminar?
-* zeroshift blender (pinged on hangouts)
+* ~~zeroshift blender (pinged on hangouts, cant)~~
 * jfrazao bonsai
 * smash notch
 * pandur cables.gl (pinged on discord, figure out date)
 * rrrola size coding
 * ~~hellmood size coding (pinged on discord, cant)~~
 * ~~sensenstalh size coding (pinged on discord)~~
-* p01 1k (pinged on twitter)
+* p01 1k (pinged on twitter, thinking about it)
 * seven 1k
 * ~~ferris about their tool, compressor or hardware (cant)~~
 * urs or cupe or abductee SDF library or 64k making in general
@@ -71,7 +71,7 @@ List of people:
 * sol_hsa zx spectrum coding (pinged on discord, maybe)
 * lordcoxis zx spectrum coding
 * introspec zx spectrum coding
-* gasman zx spectrum coding
+* gasman zx spectrum coding (pinged on discord)
 * noname seminar for amiga coding (pinged on discord)
 * danlemon seminar on amiga coding
 * ~~emoon on amiga coding (pinged on discord, cant)~~
@@ -81,7 +81,7 @@ List of people:
 * porocyon NDS (pinged on discord, checking dates)
 * ~~superrogue ZX size coding (pinged on discord)~~
 * zden atari vj tool (pinged on discord)
-* blackle linux coding
+* blackle linux coding (pinged on discord)
 
 Invite blurb:
 
