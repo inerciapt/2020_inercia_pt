@@ -41,7 +41,7 @@ List of people:
 * ~~ascii/ansi dipswitch (cant)~~
 * ascii/ansi truck
 * ascii/ansi cransky (pinged on discord)
-* ascii/ansi ne7 (pinged on twitter)
+* ~~ascii/ansi ne7 (pinged on twitter, cant)~~
 * yx about executable graphics (pinged on discord, thinking about it)
 * iq about executable graphics (pinged on discord, thinking about it)
 * made about photo/graphics (pinged on discord)
