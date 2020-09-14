@@ -15,8 +15,6 @@ prepare best of chaos constructions demoshow
 
 prepare best of forever demoshow
 
-prepare best of inercia demoshow
-
 invitation intro for function??? (alien)
 
 test fake compo of every kind (irfanview, xmplay, videoplayer)
