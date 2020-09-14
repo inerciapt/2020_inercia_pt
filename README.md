@@ -3,11 +3,7 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-prepare the teach yourself demoscene seminar
-
 overlay for obs shader royale with the tv idea and longer transition time to fullscreen
-
-test interactive html infopage on obs (to type things on)
 
 finish contacting all the listed people about possible seminars
 
@@ -32,21 +28,19 @@ poke gargaj to setup compo submission system after Function is done
 Invite people to give demo making related seminars on the days leading up to Inércia
 
 List of people:
-* ps teach yourself demoscene in 14 days (13 september)
+* ~~ps teach yourself demoscene in 14 days (13 september, done)~~
 * evvvvil about doing 4k intros (pinged on discord, figuring out dates)
 * virgill about 4klang / 64klang (pinged on discord)
 * noby about oidos (pinged on discord)
 * ~~hoffman wavesaber (cant)~~
 * ~~gargaj conspiracy synth (cant before function, re-ping after function)~~
 * ~~ascii/ansi dipswitch (cant)~~
-* ascii/ansi truck
 * ascii/ansi cransky (pinged on discord)
 * ~~ascii/ansi ne7 (pinged on twitter, cant)~~
 * yx about executable graphics (pinged on discord, thinking about it)
 * iq about executable graphics (pinged on discord, thinking about it)
 * made about photo/graphics (pinged on discord)
 * kazuya about pixel graphics (pinged on facebook)
-* modern graphics ???
 * ctrix 4ch mod (pinged on discord, thinking about it)
 * gopher 4klang/64klang (pinged on discord)
 * distance IT (pinged on discord, thinking about it)
@@ -54,19 +48,22 @@ List of people:
 * ~~jco streaming music compo or creative process (cant)~~
 * paralax spacepigs demotool (pinged on discord, figuring out date)
 * netpoet streaming music compo or legal things (pinged on discord)
-* jeenio streaming music compo? (pinged on discord)
+* ~~jeenio streaming music compo? (pinged on discord, already scheduled)~~
 * erratic drone music seminar?
 * ~~zeroshift blender (pinged on hangouts, cant)~~
-* jfrazao bonsai
-* smash notch
-* pandur cables.gl (pinged on discord, figure out date)
-* rrrola size coding
+* jfrazao bonsai (pinged by email)
+* gloom notch (pinged on discord)
+* ~~pandur cables.gl (pinged on discord, already scheduled)~~
+* rrrola size coding (pinged via email)
+* trixter size coding (pinged via email)
 * ~~hellmood size coding (pinged on discord, cant)~~
 * ~~sensenstalh size coding (pinged on discord)~~
 * p01 1k (pinged on twitter, thinking about it)
 * seven 1k
 * ~~ferris about their tool, compressor or hardware (cant)~~
-* urs or cupe or abductee SDF library or 64k making in general
+* urs SDF library or 64k making in general
+* cupe SDF library or 64k making in general
+* abductee SDF library or 64k making in general
 * hedning seminar for c64 coding?
 * sol_hsa zx spectrum coding (pinged on discord, maybe)
 * lordcoxis zx spectrum coding
