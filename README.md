@@ -53,7 +53,7 @@ List of people:
 * gloom notch (pinged on discord)
 * ~~pandur cables.gl (pinged on discord, already scheduled)~~
 * rrrola size coding (pinged via email)
-* trixter size coding (pinged via email)
+* ~~trixter size coding (pinged via email, cant)~~
 * ~~hellmood size coding (pinged on discord, cant)~~
 * ~~sensenstalh size coding (pinged on discord)~~
 * p01 1k (pinged on twitter, thinking about it)
