@@ -3,19 +3,21 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-overlay for obs shader royale with the tv idea and longer transition time to fullscreen
+maybe dynamic background on obs shader royale
 
-finish contacting all the listed people about possible seminars
+maybe longer transition time to fullscreen animation on obs shader royale
 
-follow up on interested seminar speakers with actual dates to announce (paulo falcao, evvvvil, paralax, iq, porocyon, mmalex, p01, yx, noby, pandur)
+have timer on screen at all times on obs shader royale
 
-prepare best of bunzli demoshow
+prepare best of bunzli demoshow (talk with unlock or shana about this)
 
 prepare best of chaos constructions demoshow
 
 prepare best of forever demoshow
 
-invitation intro for function??? (alien)
+ask people about possible dj sets
+
+invitation intro for function or jml??? (alien)
 
 test fake compo of every kind (irfanview, xmplay, videoplayer)
 
