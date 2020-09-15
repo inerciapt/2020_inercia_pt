@@ -3,21 +3,23 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-maybe dynamic background on obs shader royale
+ask people about possible dj sets
 
-maybe longer transition time to fullscreen animation on obs shader royale
+ask people about shader royale registration (post a flyer)
 
-have timer on screen at all times on obs shader royale
-
-prepare best of bunzli demoshow (talk with unlock or shana about this)
+invitation intro for function or jml??? (alien)
 
 prepare best of chaos constructions demoshow
 
 prepare best of forever demoshow
 
-ask people about possible dj sets
+prepare best of bunzli demoshow (talk with unlock or shana about this)
 
-invitation intro for function or jml??? (alien)
+maybe dynamic background on obs shader royale
+
+maybe longer transition time to fullscreen animation on obs shader royale
+
+have timer on screen at all times on obs shader royale
 
 test fake compo of every kind (irfanview, xmplay, videoplayer)
 
