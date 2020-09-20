@@ -7,11 +7,11 @@ ask people about possible dj sets
 
 ask people about shader royale registration (post a flyer)
 
-prepare best of chaos constructions demoshow
+poke gargaj to setup compo submission system after Function is done
 
 prepare best of forever demoshow
 
-prepare best of bunzli demoshow (talk with unlock or shana about this)
+consider doing the spectrum part of CC & forever demoshows on ZX NEXT
 
 maybe dynamic background on obs shader royale
 
@@ -20,8 +20,6 @@ maybe longer transition time to fullscreen animation on obs shader royale
 have timer on screen at all times on obs shader royale
 
 test fake compo of every kind (irfanview, xmplay, videoplayer)
-
-poke gargaj to setup compo submission system after Function is done
 
 ---
 
