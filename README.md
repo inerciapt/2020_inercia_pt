@@ -3,13 +3,9 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-link on website to recordings of past seminars
-
 ask people about possible dj sets
 
 ask people about shader royale registration (post a flyer)
-
-invitation intro for function or jml??? (alien)
 
 prepare best of chaos constructions demoshow
 
