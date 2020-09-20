@@ -121,15 +121,16 @@ Multiple contestants start at the same time programming a shader on bonzomatic. 
 ---
 
 invite folks for dj sets:
-* dextrose
-* hoffman
-* glxblt
+* dextrose (pinged on facebook)
+* hoffman (pinged on discord)
+* glxblt (pinged on discord)
 * lynn
-* lug00ber
+* lug00ber (already doing the shader royale)
 * dipswitch
 * bombe
 * ronny
 * yoda
+* teo
 
 ---
 
