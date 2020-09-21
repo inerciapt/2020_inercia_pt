@@ -7,8 +7,6 @@ spam announce BART seminar
 
 ask people about shader royale registration (post a flyer)
 
-poke gargaj to setup compo submission system after Function is done
-
 prepare best of forever demoshow
 
 consider doing the spectrum part of CC & forever demoshows on ZX NEXT
