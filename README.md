@@ -3,8 +3,6 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-ask people about possible dj sets
-
 ask people about shader royale registration (post a flyer)
 
 poke gargaj to setup compo submission system after Function is done
@@ -121,14 +119,14 @@ Multiple contestants start at the same time programming a shader on bonzomatic. 
 ---
 
 invite folks for dj sets:
-* dextrose (pinged on facebook)
+* ~~dextrose (pinged on facebook, cant)~~
 * hoffman (pinged on discord)
 * glxblt (pinged on discord)
 * lynn
 * lug00ber (already doing the shader royale)
 * dipswitch
 * bombe
-* ronny
+* ronny (pinged on discord)
 * yoda
 * teo
 
