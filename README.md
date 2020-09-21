@@ -25,56 +25,48 @@ Invite people to give demo making related seminars on the days leading up to In√
 
 List of people:
 * ~~ps teach yourself demoscene in 14 days (13 september, done)~~
-* evvvvil about doing 4k intros (pinged on discord, figuring out dates)
-* virgill about 4klang / 64klang (pinged on discord)
-* noby about oidos (pinged on discord)
+* ~~evvvvil about doing 4k intros (pinged on discord, no answer)~~
+* ~~virgill about 4klang / 64klang (pinged on discord, no asnswer)~~
+* ~~noby about oidos (pinged on discord, no answer)~~
 * ~~hoffman wavesaber (cant)~~
 * ~~gargaj conspiracy synth (cant before function, re-ping after function)~~
 * ~~ascii/ansi dipswitch (cant)~~
-* ascii/ansi cransky (pinged on discord)
+* ascii/ansi cransky (pinged on discord, thinking about it)
 * ~~ascii/ansi ne7 (pinged on twitter, cant)~~
 * yx about executable graphics (pinged on discord, thinking about it)
-* iq about executable graphics (pinged on discord, thinking about it)
-* made about photo/graphics (pinged on discord)
-* kazuya about pixel graphics (pinged on facebook)
-* ctrix 4ch mod (pinged on discord, thinking about it)
-* gopher 4klang/64klang (pinged on discord)
-* distance IT (pinged on discord, thinking about it)
-* saga musix trackers (pinged on discord)
+* ~~iq about executable graphics (pinged on discord, cant)~~
+* ~~made about photo/graphics (pinged on discord, no answer)~~
+* ~~kazuya about pixel graphics (pinged on facebook, no answer)~~
+* ~~ctrix 4ch mod (pinged on discord, cant)~~
+* ~~gopher 4klang/64klang (pinged on discord, no answer)~~
+* ~~distance IT (pinged on discord, cant)~~
+* ~~saga musix trackers (pinged on discord, no answer)~~
 * ~~jco streaming music compo or creative process (cant)~~
-* paralax spacepigs demotool (pinged on discord, figuring out date)
-* netpoet streaming music compo or legal things (pinged on discord)
+* ~~paralax spacepigs demotool (pinged on discord, scheduled)~~
+* ~~netpoet streaming music compo or legal things (pinged on discord, no answer)
 * ~~jeenio streaming music compo? (pinged on discord, already scheduled)~~
-* erratic drone music seminar?
 * ~~zeroshift blender (pinged on hangouts, cant)~~
-* jfrazao bonsai (pinged by email)
-* gloom notch (pinged on discord)
+* ~~jfrazao bonsai (pinged by email, scheduled)~~
+* ~~gloom notch (pinged on discord, not actively looking to promote for demoscene use)~~
 * ~~pandur cables.gl (pinged on discord, already scheduled)~~
-* rrrola size coding (pinged via email)
+* ~~rrrola size coding (pinged via email, no answer)~~
 * ~~trixter size coding (pinged via email, cant)~~
 * ~~hellmood size coding (pinged on discord, cant)~~
 * ~~sensenstalh size coding (pinged on discord)~~
 * p01 1k (pinged on twitter, thinking about it)
-* seven 1k
 * ~~ferris about their tool, compressor or hardware (cant)~~
-* urs SDF library or 64k making in general
-* cupe SDF library or 64k making in general
-* abductee SDF library or 64k making in general
-* hedning seminar for c64 coding?
 * sol_hsa zx spectrum coding (pinged on discord, maybe)
-* lordcoxis zx spectrum coding
-* introspec zx spectrum coding
-* gasman zx spectrum coding (pinged on discord)
-* noname seminar for amiga coding (pinged on discord)
-* danlemon seminar on amiga coding
+* ~~gasman zx spectrum coding (pinged on discord, cant)~~
+* ~~noname seminar for amiga coding (pinged on discord, no answer)~~
 * ~~emoon on amiga coding (pinged on discord, cant)~~
-* jobe pico 8 coding (pinged on discord)
-* paulo falcao shader material (pinged on hangouts, maybe in 2 weeks)
-* mmalex plinky (pinged on twitter, thinking about it)
+* ~~jobe pico 8 coding (pinged on discord, no answer)~~
+* ~~paulo falcao shader material (pinged on hangouts, scheduled)~~
+* mmalex plinky (pinged on twitter, wants to but family issues)
 * porocyon NDS (pinged on discord, checking dates)
 * ~~superrogue ZX size coding (pinged on discord)~~
-* zden atari vj tool (pinged on discord)
-* blackle linux coding (pinged on discord)
+* ~~zden atari vj tool (pinged on discord, cant)~~
+* ~~blackle linux coding (pinged on discord, cant)~~
+* ~~franky recording old hardware (pinged on discord, scheduled)~~
 
 Invite blurb:
 
