@@ -31,7 +31,7 @@ List of people:
 * ~~hoffman wavesaber (cant)~~
 * ~~gargaj conspiracy synth (cant before function, re-ping after function)~~
 * ~~ascii/ansi dipswitch (cant)~~
-* ascii/ansi cransky (pinged on discord, thinking about it)
+* ~~ascii/ansi cransky (pinged on discord, thinking about it)~~
 * ~~ascii/ansi ne7 (pinged on twitter, cant)~~
 * yx about executable graphics (pinged on discord, thinking about it)
 * ~~iq about executable graphics (pinged on discord, cant)~~
