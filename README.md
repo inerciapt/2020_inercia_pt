@@ -43,7 +43,7 @@ List of people:
 * ~~saga musix trackers (pinged on discord, no answer)~~
 * ~~jco streaming music compo or creative process (cant)~~
 * ~~paralax spacepigs demotool (pinged on discord, scheduled)~~
-* ~~netpoet streaming music compo or legal things (pinged on discord, no answer)
+* ~~netpoet streaming music compo or legal things (pinged on discord, no answer)~~
 * ~~jeenio streaming music compo? (pinged on discord, already scheduled)~~
 * ~~zeroshift blender (pinged on hangouts, cant)~~
 * ~~jfrazao bonsai (pinged by email, scheduled)~~
