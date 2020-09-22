@@ -3,8 +3,6 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-spam announce BART seminar
-
 ask people about shader royale registration (post a flyer)
 
 prepare best of forever demoshow
