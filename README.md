@@ -109,6 +109,8 @@ Invite people for shader royale (2 october):
 * tdhooper (pinged on discord)
 * bitnenfer (pinged on discord)
 * koltes (pinged on discord)
+* unc
+* random folks on twitter / shadertoy
 * lug00ber stream for soundtrack (confirmed)
 
 Invite blurb:
