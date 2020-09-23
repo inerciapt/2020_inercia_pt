@@ -106,7 +106,7 @@ Invite people for shader royale (2 october):
 * ~~visy (pinged on discord, cant)~~
 * blackpawn (pinged on discord)
 * xernobyl (pinged on discord)
-* rimina (pinged on discord, thinking about it)
+* ~~rimina (pinged on discord, is in)~~
 * kb (pinged on discord)
 * ~~FMS_Cat (pinged on discord, is in)~~
 * bruce (pinged on discord)
