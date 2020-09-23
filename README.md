@@ -85,9 +85,9 @@ Invite people for shader royale (2 october):
 * evvvvil (pinged on discord)
 * monsieur soleil
 * cosamentale (pinged on discord)
-* provod (pinged on discord)
+* ~~provod (pinged on discord, is in)~~
 * wrighter (pinged on discord)
-* blackle (pinged on discord, is in!)
+* ~~blackle (pinged on discord, is in)~~
 * alia (pinged on discord)
 * blueberry
 * cupe (pinged on discord)
@@ -104,7 +104,7 @@ Invite people for shader royale (2 october):
 * xernobyl (pinged on discord)
 * rimina (pinged on discord)
 * kb (pinged on discord)
-* FMS_Cat (pinged on discord, is in!)
+* ~~FMS_Cat (pinged on discord, is in)~~
 * bruce (pinged on discord)
 * tdhooper (pinged on discord)
 * bitnenfer (pinged on discord)
