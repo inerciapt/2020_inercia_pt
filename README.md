@@ -82,35 +82,35 @@ Invite people for shader royale (2 october):
 * yx (pinged on discord)
 * ferris (pinged on discord)
 * alkama (pinged on discord)
-* flopine (pinged on discord)
+* ~~flopine (pinged on discord, cant)~~
 * lj (pinged on discord)
 * hardy (pinged on discord)
-* nusan (pinged on discord)
+* ~~nusan (pinged on discord, is in)~~
 * evvvvil (pinged on discord)
 * monsieur soleil
 * cosamentale (pinged on discord)
 * ~~provod (pinged on discord, is in)~~
-* wrighter (pinged on discord)
+* wrighter (pinged on discord, maybe)
 * ~~blackle (pinged on discord, is in)~~
-* alia (pinged on discord)
+* ~~alia (pinged on discord, too out of practice)~~
 * blueberry
 * cupe (pinged on discord)
 * gargaj
 * iq (pinged on discord)
 * kb (pinged on discord)
 * paulo falcao
-* noby
+* ~~noby (pinged on discord, too out of practice)~~
 * ~~branch (pinged on discord, cant)~~
 * cce (pinged on discord)
-* slerpy (pinged on discord)
-* visy (pinged on discord)
+* ~~slerpy (pinged on discord, too out of practice)~~
+* ~~visy (pinged on discord, cant)~~
 * blackpawn (pinged on discord)
 * xernobyl (pinged on discord)
-* rimina (pinged on discord)
+* rimina (pinged on discord, thinking about it)
 * kb (pinged on discord)
 * ~~FMS_Cat (pinged on discord, is in)~~
 * bruce (pinged on discord)
-* tdhooper (pinged on discord)
+* tdhooper (pinged on discord, not sure)
 * bitnenfer (pinged on discord)
 * koltes (pinged on discord)
 * unc
