@@ -75,29 +75,41 @@ I'm organizing Inércia Demoparty 2020 as an online event (2-3 oct). Trying to t
 ---
 
 Invite people for shader royale (2 october):
-* yx
-* ferris
-* alkama
-* flopine
-* lj
-* nusan
-* evvvvil
+* yx (pinged on discord)
+* ferris (pinged on discord)
+* alkama (pinged on discord)
+* flopine (pinged on discord)
+* lj (pinged on discord)
+* hardy (pinged on discord)
+* nusan (pinged on discord)
+* evvvvil (pinged on discord)
 * monsieur soleil
-* provod
-* wwrighter
-* blackle
-* alia
+* cosamentale (pinged on discord)
+* provod (pinged on discord)
+* wrighter (pinged on discord)
+* blackle (pinged on discord, is in!)
+* alia (pinged on discord)
 * blueberry
-* cupe
+* cupe (pinged on discord)
 * gargaj
-* iq
-* kb
+* iq (pinged on discord)
+* kb (pinged on discord)
 * paulo falcao
 * noby
-* branch
-* slerpy
-* visy
-* confirm with lug00ber for soundtrack
+* ~~branch (pinged on discord, cant)~~
+* cce (pinged on discord)
+* slerpy (pinged on discord)
+* visy (pinged on discord)
+* blackpawn (pinged on discord)
+* xernobyl (pinged on discord)
+* rimina (pinged on discord)
+* kb (pinged on discord)
+* FMS_Cat (pinged on discord, is in!)
+* bruce (pinged on discord)
+* tdhooper (pinged on discord)
+* bitnenfer (pinged on discord)
+* koltes (pinged on discord)
+* lug00ber stream for soundtrack (confirmed)
 
 Invite blurb:
 
