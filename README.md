@@ -3,7 +3,11 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-ask people about shader royale registration (post a flyer)
+announce inercia partnership on enough records facebook and artists mailing list
+
+flyer for shader royale social media spam
+
+post news item to bitfellas
 
 prepare best of forever demoshow
 
