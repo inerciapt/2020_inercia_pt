@@ -68,7 +68,7 @@ List of people:
 * ~~superrogue ZX size coding (pinged on discord)~~
 * ~~zden atari vj tool (pinged on discord, cant)~~
 * ~~blackle linux coding (pinged on discord, cant)~~
-* franky recording old hardware (pinged on discord, missing recording)
+* franky recording old hardware (pinged on discord, scheduling)
 
 Invite blurb:
 
@@ -136,7 +136,7 @@ invite folks for dj sets:
 * lug00ber (already doing the shader royale)
 * dipswitch
 * bombe
-* ~~ronny (pinged on discord, no answer)~~
+* ronny (pinged on discord, doing something)
 * yoda
 * teo
 
