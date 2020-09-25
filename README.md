@@ -32,10 +32,10 @@ Invite people for shader royale (2 october):
 * ~~alia (pinged on discord, too out of practice)~~
 * blueberry (pinged on discord)
 * cupe (pinged on discord)
-* gargaj
+* ~~gargaj (pinged on discord, no)~~
 * iq (pinged on discord)
 * kb (pinged on discord)
-* paulo falcao
+* paulo falcao (pinged on google hangouts)
 * ~~noby (pinged on discord, too out of practice)~~
 * ~~branch (pinged on discord, cant)~~
 * ~~cce (pinged on discord, no)~~
