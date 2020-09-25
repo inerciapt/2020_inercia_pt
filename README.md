@@ -3,78 +3,15 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-announce inercia partnership on enough records facebook and artists mailing list
-
-flyer for shader royale social media spam
-
-post news item to bitfellas
-
 prepare best of forever demoshow
 
-consider doing the spectrum part of CC & forever demoshows on ZX NEXT
+have timer on screen at all times on obs
 
-maybe dynamic background on obs shader royale
+do an obs schedule screen
 
-maybe longer transition time to fullscreen animation on obs shader royale
-
-have timer on screen at all times on obs shader royale
+test obs with new shader royale layout
 
 test fake compo of every kind (irfanview, xmplay, videoplayer)
-
----
-
-Invite people to give demo making related seminars on the days leading up to Inércia
-
-List of people:
-* ~~ps teach yourself demoscene in 14 days (13 september, done)~~
-* ~~evvvvil about doing 4k intros (pinged on discord, no answer)~~
-* ~~virgill about 4klang / 64klang (pinged on discord, no asnswer)~~
-* ~~noby about oidos (pinged on discord, no answer)~~
-* ~~hoffman wavesaber (cant)~~
-* ~~gargaj conspiracy synth (cant before function, re-ping after function)~~
-* ~~ascii/ansi dipswitch (cant)~~
-* ~~ascii/ansi cransky (pinged on discord, thinking about it)~~
-* ~~ascii/ansi ne7 (pinged on twitter, cant)~~
-* ~~yx about executable graphics (pinged on discord, no answer)~~
-* ~~iq about executable graphics (pinged on discord, cant)~~
-* ~~made about photo/graphics (pinged on discord, no answer)~~
-* ~~kazuya about pixel graphics (pinged on facebook, no answer)~~
-* ~~ctrix 4ch mod (pinged on discord, cant)~~
-* ~~gopher 4klang/64klang (pinged on discord, no answer)~~
-* ~~distance IT (pinged on discord, cant)~~
-* ~~saga musix trackers (pinged on discord, no answer)~~
-* ~~jco streaming music compo or creative process (cant)~~
-* ~~paralax spacepigs demotool (pinged on discord, scheduled)~~
-* ~~netpoet streaming music compo or legal things (pinged on discord, no answer)~~
-* ~~jeenio streaming music compo? (pinged on discord, already scheduled)~~
-* ~~zeroshift blender (pinged on hangouts, cant)~~
-* ~~jfrazao bonsai (pinged by email, scheduled)~~
-* ~~gloom notch (pinged on discord, not actively looking to promote for demoscene use)~~
-* ~~pandur cables.gl (pinged on discord, already scheduled)~~
-* ~~rrrola size coding (pinged via email, no answer)~~
-* ~~trixter size coding (pinged via email, cant)~~
-* ~~hellmood size coding (pinged on discord, cant)~~
-* ~~sensenstalh size coding (pinged on discord)~~
-* ~~p01 1k (pinged on twitter, no answer)~~
-* ~~ferris about their tool, compressor or hardware (cant)~~
-* sol_hsa zx spectrum coding (pinged on discord, maybe)
-* ~~gasman zx spectrum coding (pinged on discord, cant)~~
-* ~~noname seminar for amiga coding (pinged on discord, no answer)~~
-* ~~emoon on amiga coding (pinged on discord, cant)~~
-* ~~jobe pico 8 coding (pinged on discord, no answer)~~
-* ~~paulo falcao shader material (pinged on hangouts, scheduled)~~
-* mmalex plinky (pinged on twitter, wants to but family issues)
-* ~~porocyon NDS (pinged on discord, scheduled)~~
-* ~~superrogue ZX size coding (pinged on discord)~~
-* ~~zden atari vj tool (pinged on discord, cant)~~
-* ~~blackle linux coding (pinged on discord, cant)~~
-* franky recording old hardware (pinged on discord, scheduling)
-
-Invite blurb:
-
-```
-I'm organizing Inércia Demoparty 2020 as an online event (2-3 oct). Trying to take full use of the online format i've been doing daily livestreams preparing for the main event and trying to raise community hype a bit. Always starting around 21:00 Lisbon time. Would be nice to have on those sessions some seminars on different demo making things. To help the noobs start rolling out things and motivate the old timers to participate. The format i had in mind to simplify logistics would be to play a pre-recorded 90 min video on the stream while having the talk giver available on the chat to talk with the audience, can also have them live on the stream to answer any Q&A. These sessions will be archived on youtube for posterity with an MIT license. Would you be interested in contributing a seminar talk?
-```
 
 ---
 
@@ -93,7 +30,7 @@ Invite people for shader royale (2 october):
 * wrighter (pinged on discord, maybe)
 * ~~blackle (pinged on discord, is in)~~
 * ~~alia (pinged on discord, too out of practice)~~
-* blueberry
+* blueberry (pinged on discord)
 * cupe (pinged on discord)
 * gargaj
 * iq (pinged on discord)
@@ -114,9 +51,9 @@ Invite people for shader royale (2 october):
 * bitnenfer (pinged on discord)
 * ~~koltes (pinged on discord, cant)~~
 * unc
-* kali (pinged on discord)
-* fizzer (pinged on discord)
-* random folks on twitter / shadertoy
+* kali (pinged on discord, maybe)
+* ~~fizzer (pinged on discord, is in)~~
+* ~~random folks on twitter / shadertoy~~
 * lug00ber stream for soundtrack (confirmed)
 
 Invite blurb:
