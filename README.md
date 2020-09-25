@@ -35,7 +35,7 @@ List of people:
 * ~~ascii/ansi dipswitch (cant)~~
 * ~~ascii/ansi cransky (pinged on discord, thinking about it)~~
 * ~~ascii/ansi ne7 (pinged on twitter, cant)~~
-* yx about executable graphics (pinged on discord, thinking about it)
+* ~~yx about executable graphics (pinged on discord, no answer)~~
 * ~~iq about executable graphics (pinged on discord, cant)~~
 * ~~made about photo/graphics (pinged on discord, no answer)~~
 * ~~kazuya about pixel graphics (pinged on facebook, no answer)~~
@@ -55,7 +55,7 @@ List of people:
 * ~~trixter size coding (pinged via email, cant)~~
 * ~~hellmood size coding (pinged on discord, cant)~~
 * ~~sensenstalh size coding (pinged on discord)~~
-* p01 1k (pinged on twitter, thinking about it)
+* ~~p01 1k (pinged on twitter, no answer)~~
 * ~~ferris about their tool, compressor or hardware (cant)~~
 * sol_hsa zx spectrum coding (pinged on discord, maybe)
 * ~~gasman zx spectrum coding (pinged on discord, cant)~~
@@ -64,11 +64,11 @@ List of people:
 * ~~jobe pico 8 coding (pinged on discord, no answer)~~
 * ~~paulo falcao shader material (pinged on hangouts, scheduled)~~
 * mmalex plinky (pinged on twitter, wants to but family issues)
-* porocyon NDS (pinged on discord, checking dates)
+* ~~porocyon NDS (pinged on discord, scheduled)~~
 * ~~superrogue ZX size coding (pinged on discord)~~
 * ~~zden atari vj tool (pinged on discord, cant)~~
 * ~~blackle linux coding (pinged on discord, cant)~~
-* ~~franky recording old hardware (pinged on discord, scheduled)~~
+* franky recording old hardware (pinged on discord, missing recording)
 
 Invite blurb:
 
@@ -84,7 +84,7 @@ Invite people for shader royale (2 october):
 * alkama (pinged on discord)
 * ~~flopine (pinged on discord, cant)~~
 * lj (pinged on discord)
-* hardy (pinged on discord)
+* hardy (pinged on discord, maybe)
 * ~~nusan (pinged on discord, is in)~~
 * evvvvil (pinged on discord)
 * monsieur soleil
@@ -101,10 +101,10 @@ Invite people for shader royale (2 october):
 * paulo falcao
 * ~~noby (pinged on discord, too out of practice)~~
 * ~~branch (pinged on discord, cant)~~
-* cce (pinged on discord)
+* ~~cce (pinged on discord, no)~~
 * ~~slerpy (pinged on discord, too out of practice)~~
 * ~~visy (pinged on discord, cant)~~
-* blackpawn (pinged on discord)
+* ~~blackpawn (pinged on discord, no)~~
 * xernobyl (pinged on discord)
 * ~~rimina (pinged on discord, is in)~~
 * kb (pinged on discord)
@@ -112,8 +112,9 @@ Invite people for shader royale (2 october):
 * bruce (pinged on discord)
 * tdhooper (pinged on discord, not sure)
 * bitnenfer (pinged on discord)
-* koltes (pinged on discord)
+* ~~koltes (pinged on discord, cant)~~
 * unc
+* kali (pinged on discord)
 * random folks on twitter / shadertoy
 * lug00ber stream for soundtrack (confirmed)
 
@@ -128,13 +129,13 @@ Multiple contestants start at the same time programming a shader on bonzomatic. 
 
 invite folks for dj sets:
 * ~~dextrose (pinged on facebook, cant)~~
-* hoffman (pinged on discord)
-* glxblt (pinged on discord)
-* lynn
+* hoffman (pinged on discord, doing something)
+* ~~glxblt (pinged on discord, no answer)~~
+* lynn (pinged on discord)
 * lug00ber (already doing the shader royale)
 * dipswitch
 * bombe
-* ronny (pinged on discord)
+* ~~ronny (pinged on discord, no answer)~~
 * yoda
 * teo
 
