@@ -115,6 +115,7 @@ Invite people for shader royale (2 october):
 * ~~koltes (pinged on discord, cant)~~
 * unc
 * kali (pinged on discord)
+* fizzer (pinged on discord)
 * random folks on twitter / shadertoy
 * lug00ber stream for soundtrack (confirmed)
 
@@ -131,7 +132,7 @@ invite folks for dj sets:
 * ~~dextrose (pinged on facebook, cant)~~
 * hoffman (pinged on discord, doing something)
 * ~~glxblt (pinged on discord, no answer)~~
-* lynn (pinged on discord)
+* lynn (pinged on discord, said sure)
 * lug00ber (already doing the shader royale)
 * dipswitch
 * bombe
