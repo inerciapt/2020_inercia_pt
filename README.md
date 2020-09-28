@@ -5,8 +5,6 @@ Inércia Demoparty 2020 website
 
 prepare best of forever demoshow
 
-have timer on screen at all times on obs
-
 do an obs schedule screen
 
 test obs with new shader royale layout
