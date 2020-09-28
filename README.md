@@ -3,11 +3,7 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-prepare best of forever demoshow
-
-do an obs schedule screen
-
-test obs with new shader royale layout
+test shader royale with alien
 
 test fake compo of every kind (irfanview, xmplay, videoplayer)
 
@@ -16,7 +12,7 @@ test fake compo of every kind (irfanview, xmplay, videoplayer)
 Invite people for shader royale (2 october):
 * yx (pinged on discord)
 * ferris (pinged on discord)
-* alkama (pinged on discord)
+* ~~alkama (pinged on discord, cant)~~
 * ~~flopine (pinged on discord, cant)~~
 * lj (pinged on discord)
 * hardy (pinged on discord, maybe)
@@ -33,7 +29,7 @@ Invite people for shader royale (2 october):
 * ~~gargaj (pinged on discord, no)~~
 * iq (pinged on discord)
 * kb (pinged on discord)
-* paulo falcao (pinged on google hangouts)
+* ~~paulo falcao (pinged on google hangouts, no)~~
 * ~~noby (pinged on discord, too out of practice)~~
 * ~~branch (pinged on discord, cant)~~
 * ~~cce (pinged on discord, no)~~
