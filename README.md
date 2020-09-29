@@ -41,7 +41,7 @@ Invite people for shader royale (2 october):
 * kb (pinged on discord)
 * ~~FMS_Cat (pinged on discord, is in)~~
 * bruce (pinged on discord)
-* tdhooper (pinged on discord, not sure)
+* ~~tdhooper (pinged on discord, not sure)~~
 * bitnenfer (pinged on discord)
 * ~~koltes (pinged on discord, cant)~~
 * unc
