@@ -10,25 +10,25 @@ test fake compo of every kind (irfanview, xmplay, videoplayer)
 ---
 
 Invite people for shader royale (2 october):
-* yx (pinged on discord)
+* ~~yx (pinged on discord, cant)~~
 * ferris (pinged on discord)
 * ~~alkama (pinged on discord, cant)~~
 * ~~flopine (pinged on discord, cant)~~
-* lj (pinged on discord)
+* lj (pinged on discord & twitter)
 * hardy (pinged on discord, maybe)
 * ~~nusan (pinged on discord, is in)~~
-* evvvvil (pinged on discord)
+* ~~evvvvil (pinged on discord, is in)~~
 * monsieur soleil
-* cosamentale (pinged on discord)
+* ~~cosamentale (pinged on discord, cant)~~
 * ~~provod (pinged on discord, is in)~~
-* wrighter (pinged on discord, maybe)
+* ~~wrighter (pinged on discord, is in)~~
 * ~~blackle (pinged on discord, is in)~~
 * ~~alia (pinged on discord, too out of practice)~~
-* blueberry (pinged on discord)
-* cupe (pinged on discord)
+* blueberry (pinged on discord, maybe)
+* cupe (pinged on discord, no answer)
 * ~~gargaj (pinged on discord, no)~~
-* iq (pinged on discord)
-* kb (pinged on discord)
+* iq (pinged on discord, no answer)
+* kb (pinged on discord, no answer)
 * ~~paulo falcao (pinged on google hangouts, no)~~
 * ~~noby (pinged on discord, too out of practice)~~
 * ~~branch (pinged on discord, cant)~~
@@ -36,11 +36,10 @@ Invite people for shader royale (2 october):
 * ~~slerpy (pinged on discord, too out of practice)~~
 * ~~visy (pinged on discord, cant)~~
 * ~~blackpawn (pinged on discord, no)~~
-* xernobyl (pinged on discord)
+* xernobyl (pinged on discord, no answer)
 * ~~rimina (pinged on discord, is in)~~
-* kb (pinged on discord)
 * ~~FMS_Cat (pinged on discord, is in)~~
-* bruce (pinged on discord)
+* ~~bruce (pinged on discord, no)~~
 * ~~tdhooper (pinged on discord, not sure)~~
 * bitnenfer (pinged on discord)
 * ~~koltes (pinged on discord, cant)~~
