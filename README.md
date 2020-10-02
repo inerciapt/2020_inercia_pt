@@ -3,22 +3,6 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-pray to the packet loss gods!
-
-announce deadline for compos
-
-pray to the packet loss gods!
-
-test artica's 4g pen as alternative to the packet loss gods wrath
-
-livestream 1 oct inercia + deadline demoshow
-
-define merged compos and compo block sequence, contact people who might need contacting (submitters, dj sets)
-
-mix drone set
-
-update schedule
-
 upload as many things as possible to youtube (in case packet loss gods are against us)
 
 pray to the packet loss gods!
