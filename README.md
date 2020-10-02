@@ -3,15 +3,13 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-upload as many things as possible to youtube (in case packet loss gods are against us)
-
 pray to the packet loss gods!
 
 check all shader coders are online and ready
 
 livestream 2 oct shader royale
 
-upload the rest of as many things as possible to youtube (in case packet loss gods are against us)
+recheck all compo entries order and orga details
 
 set my alarm clock
 
@@ -19,7 +17,7 @@ remind cristina not to take down electrical power of the house by mistake
 
 livestream 3 oct main party stream
 
-re-package whatever needs re-packaging
+re-package whatever needs re-packaging for upload to scene.org
 
 finish results.txt
 
