@@ -3,12 +3,4 @@ Inércia Demoparty 2020 website
 
 # TODO
 
-livestream 3 oct main party stream
-
-re-package whatever needs re-packaging for upload to scene.org
-
-finish results.txt
-
-upload everything to scene.org
-
-try to sleep
+update website with final link to results and archive (once scene.org has processed stuff)
