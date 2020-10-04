@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <title>Royale Encounters</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+	<style>
+document, body {
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+  background-color: #4CAF50; /* Green */
+	font-family: 'Universal';
+	font-size: 1.25em;
+	
+}
+*:focus {
+	outline: none;
+}
+a:link, a:visited, a:hover, a:active {
+  color: white;
+  font-size: 0.9em;
+  font-weight: normal;
+}
+#btn {
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Universal';
+  font-size: 1.3em;
+  border-radius: 8px;
+  cursor: pointer;
+}
+#btn:disabled {
+  background-color: grey;
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+#starter_menu {
+	color: white;
+	text-align: center;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	margin-top: 2em;
+	width: 100%;
+}
+.displaynames div {
+	float:left; 
+	clear:left;
+	padding-left: 2em;
+	padding-right: 2em;
+	padding-bottom: 1em;
+	text-align: center;
+	width: 30%;
+}
+
+.displaynames div:nth-of-type(2n) {
+	float:right;
+	clear:right;
+}
+
+.displaynames div:hover {
+	cursor: pointer;
+}
+
+#timer {
+	position: absolute;
+	top: 0px;
+	color:white;
+	left: 0px;
+}
+@font-face {
+    font-family: 'Neuropol';
+	src: url('NEUROPOL.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'Universal';
+	src: url('Universal Serif.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'Hunger Games';
+	src: url('Hunger Games.ttf')  format('truetype');
+}
+
+.visible {
+  visibility: visible;
+  opacity: 1;
+  transition: opacity 2s linear;
+}
+.hidden {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s 2s, opacity 2s linear;
+}
+.strikethrough {
+	text-decoration: line-through;
+	color: #444;
+}
+
+#parent_div {
+	position: absolute;
+	width: 100%;
+	top:0px;
+	left:0px;
+	height: 100%;
+}
+#button_div {
+	position: absolute;
+	top: 45%;
+	left: 35%;
+	text-align: center;
+}
+#results {
+	position: absolute;
+	top: 70%;
+	left: 0%;
+	text-align: center;
+	color: white;
+	width: 100%;
+}
+	</style>
+</head>
+
+<body onload="populate_me()">
+
+    <script>
+  
+		function start() {
+		
+		}
+
+	
+
+		document.addEventListener("keydown", keyDownTextField, false);
+
+		function keyDownTextField(e) {
+			var keyCode = e.keyCode;
+			console.log(keyCode);
+
+			switch(keyCode) {
+				case 32: // space
+					
+				break;
+			}
+
+		}
+
+		let players = ['yx', 'blackle', 'visy', 'flopine', 'evvvvil', 'wrighter'];
+		let dead_players = [];
+
+		function checkDead(thisid) {
+						console.log('matching');
+
+			for (let i=0; i<dead_players.length; i++) {
+				console.log(dead_players[i] + ' ' + thisid);
+				if (dead_players[i] == thisid) return i;
+			}
+			return -1;
+		}
+
+		function modifyText() {
+			console.log(this.id);
+			
+			let checkdead = checkDead(this.id);
+			if (checkdead == -1) {
+				dead_players[dead_players.length] = this.id;
+				this.className = 'strikethrough';
+			} else {
+				// BRAINSSSS!!!
+				dead_players.splice(checkdead, 1);
+				this.className = '';
+				console.log('after the zombification: ');
+				console.log(dead_players);
+			}
+			
+			
+		}
+
+		function populate_me() {
+		
+			for (let i=0; i<players.length; i++) {
+				console.log(players[i]);
+				
+				let dom = document.getElementById('starter_menu');
+				if (dom) {
+					let dom2 = document.createElement('div');
+					dom2.setAttribute("id", "banana"+i);
+					dom2.innerHTML = players[i];
+					dom.appendChild(dom2);
+					dom2.addEventListener("click", modifyText, false);
+				}
+				
+			}
+			
+			
+		}
+		
+		function rand(max) {
+			return Math.floor(Math.random() * max);
+		}
+		
+		function available_fighters() {
+			console.log('available fighters: ' + (players.length - dead_players.length));
+			return players.length - dead_players.length;
+		}
+		
+		function remove_picked(plist, picked) {
+			//console.log('check removals');
+			//console.log(plist);
+			//console.log(picked);
+			for (let j=0; j<picked.length; j++) {
+				for (let k=0; k<plist.length; k++) {
+					//console.log(k + ' ' + plist[k]);
+					if (picked[j] == plist[k]) {
+						plist.splice(k,1);
+						k--;
+						//console.log('spliced');
+						//console.log(plist.length);
+					}
+				}
+			}
+			//console.log('plist');
+			return plist;
+		}
+		
+		function remove_dead(plist) {
+			//console.log('check removals');
+			//console.log(plist);
+			//console.log(picked);
+			for (let j=0; j<dead_players.length; j++) {
+				for (let k=0; k<plist.length; k++) {
+					//console.log(k + ' ' + plist[k]);
+					let idx = parseInt(dead_players[j].substring(6), 10);
+					if (players[idx] == plist[k]) {
+						plist.splice(k,1);
+						k--;
+						//console.log('spliced');
+						console.log(plist.length);
+					}
+				}
+			}
+			//console.log('plist');
+			return plist;
+		}
+		
+		function fight() {
+			//console.log('we\'re fighting1!!!');
+			
+			// randomize number of encounters (max is 4, min is 2)
+			let nfighters = rand(3)+2;
+			// on first round always give a 1 on 1
+			if (dead_players.length == 0) nfighters = 2;
+			// on second round always give a threeway
+			if (dead_players.length == 1) nfighters = 3;
+			// make sure we're not asking to fight more people then we have available
+			if (nfighters > available_fighters()) nfighters = available_fighters();
+			
+			console.log('nfighters: ' + nfighters);
+			
+			// try to get a non dead player for each slot
+			let picked = [];
+			for (let i=0; i<nfighters; i++) {
+				// create list of players that are not yet dead nor already picked
+				let plist = [...players];
+				// remove already picked
+				let newlist = remove_picked(plist, picked);
+
+				// remove if already dead
+				let newnewlist = remove_dead(newlist);
+
+				// randomize pick one of them
+				// add the player to the picked list
+				picked[picked.length] = newnewlist[rand(newnewlist.length)];
+			
+			}
+			console.log(picked);
+			display_picked(picked);
+		}
+
+
+		function display_picked(picked) {
+		
+		
+			let dom = document.getElementById('results');
+			if (dom) { dom.innerHTML = ''; }
+		
+			console.log('lets display some picks ');
+			for (let i=0; i<picked.length; i++) {
+				console.log(picked[i]);
+				
+				let dom = document.getElementById('results');
+				if (dom) {
+					let dom2 = document.createElement('div');
+					//dom2.setAttribute("id", "banana"+i);
+					dom2.innerHTML = picked[i];
+					dom.appendChild(dom2);
+					//dom2.addEventListener("click", modifyText, false);
+				}
+				
+			}
+			
+			
+		}
+
+    </script>
+	<div id="parent_div">
+		<div id="starter_menu" class="displaynames"></div>
+
+		<div id="button_div"><input type="button" id="btn" value="FIGHT!" onclick="fight()"/></div>
+		
+		<div id="results" class="displaynames"></div>
+	</div>
+</body>
+
+</html>
